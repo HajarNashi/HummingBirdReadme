@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/103394242/212773386-f305cc92-7c32-4852
 > ## Download The App
 
 
-### ***Coming Soon***
+https://testflight.apple.com/join/6HcUxFgw
 
 # 
 
