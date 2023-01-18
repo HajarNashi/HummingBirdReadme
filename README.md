@@ -53,9 +53,15 @@ https://user-images.githubusercontent.com/103394242/212773386-f305cc92-7c32-4852
 > ## Download The App
 
 
-https://testflight.apple.com/join/6HcUxFgw
+### Click [here](https://testflight.apple.com/join/6HcUxFgw)
 
 # 
+
+> ## Support
+
+### If you have any questions or issues with the app, please feel free to contact us. We are always happy to help and improve our app to better serve our users.
+
+#
 
 
 # ***Bye Bye***
