@@ -53,7 +53,8 @@ https://user-images.githubusercontent.com/103394242/212773386-f305cc92-7c32-4852
 > ## Download The App
 
 
-### Click [here](https://testflight.apple.com/join/6HcUxFgw)
+### TestFlight the App click [here](https://testflight.apple.com/join/6HcUxFgw)
+### ***AppStore link comming soon !***
 
 # 
 
