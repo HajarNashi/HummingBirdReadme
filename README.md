@@ -45,8 +45,8 @@ https://user-images.githubusercontent.com/103394242/212773386-f305cc92-7c32-4852
 
 > ## App Icon
 
+![Sh3bh Logo](https://github.com/HajarNashi/HummingBirdReadme/assets/103394242/3ad69b9c-1c27-41a8-9cc4-6452cef06eaf)
 
-<img width="631" alt="AppIconForGithub" src="https://user-images.githubusercontent.com/103394242/212836670-0507c200-8a13-4933-b6a4-21f20c880f8b.png">
 
 #
 
